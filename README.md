@@ -62,7 +62,7 @@ Los artefactos del Scrum, contienen la información más importante para el equi
 - Un Scrum Master (SM);
 - Un equipo de desarrollo
 
-<img src="./images/Scrum-agile-team-roles-Ariad.png" alt="Scrum-agile-team-roles" title="Scrum-agile-team-roles">
+<img src="./images/Scrum-agile-team-roles.png" alt="Scrum-agile-team-roles" title="Scrum-agile-team-roles">
 
 Los equipos scrum son auto-gestionados y multidisciplinarios. Esto significa, que como equipo, ellos mismos deciden cual es el mejor camino a seguir, nadie de fuera del equipo decide sobre los pasos a seguir. Además, los equipos scrum poseen ellos mismos todas las habilidades necesarias para llevar a cabo su trabajo, sin necesidad de la intervención de un agente externo. Un equipo que ha alcanzado la madurez en scrum, se fundamenta en su abilidad organizativa, son capaces de auto-organizarse en todos los aspectos, tanto los técnicos como los funcionales.
 
